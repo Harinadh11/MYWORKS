@@ -1,5 +1,5 @@
 # Angularhari
-This was generated for fun and learning 
+This was generated for fun and learning  and for new feature branch
 
 ## Development server
 
