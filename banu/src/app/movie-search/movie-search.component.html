@@ -1,0 +1,7 @@
+<p> Please use this searchbar for your convenience</p>
+<input type="text" [(ngModel)]="movieSearched">
+<button (click)="searchMovies()">
+    Search 
+</button>
+
+<movie-list [moviesList]="searchedMovies"></movie-list>
